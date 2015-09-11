@@ -10,8 +10,3 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
-ShoppingList/.classpath
-ShoppingList/.project
-ShoppingList/.settings/org.eclipse.core.resources.prefs
-ShoppingList/.settings/org.eclipse.jdt.core.prefs
-ShoppingList/src/org/eclipse/wb/swt/SWTResourceManager.java
